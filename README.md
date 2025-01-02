@@ -1,4 +1,4 @@
-# Foodie Onboarding and Ordering Backend
+# Food Ordering System Backend
 
 ## Description
 This backend application facilitates seamless onboarding for both vendors and customers, enabling them to interact with the platform for food ordering services. Vendors can register, set up their profiles, and manage orders, while customers can sign up, verify their identity using OTP, and check food availability by their pincode.
