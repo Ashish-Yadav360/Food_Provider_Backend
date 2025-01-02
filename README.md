@@ -16,6 +16,7 @@ This backend application facilitates seamless onboarding for both vendors and cu
 - **ORM**: Mongoose
 - **Language**: TypeScript
 - **Authentication**: Twilio for OTP verification
+- **Authorization**: JWT(Json WebTokens) For Securing API endpoints.
 
 ## Getting Started
 ### Prerequisites
